@@ -67,8 +67,3 @@ Desarrollador enfocado en el desarrollo **Full-Stack, Inteligencia Artificial Lo
 
 </div>
 
----
-
-<div align="center">
-  <sub>Diseñado con precisión | Powered by Antigravity AI</sub>
-</div>
